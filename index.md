@@ -1,4 +1,4 @@
-#### Blue Scarab
-### A Data Analytics Company
+# Blue Scarab
+## A Data Analytics Company
 
-# This site is under construction.
+### This site is under construction.
