@@ -1,2 +1,2 @@
 # bluescarabio.github.io
-bluescarabio websiet
+bluescarabio website
